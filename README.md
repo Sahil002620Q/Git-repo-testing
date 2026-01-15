@@ -1,2 +1,4 @@
 # Git-repo-testing
-testing git commands
+<h1>testing my first git repo </h1>
+<hr>
+<p>it's 15 january today </p>
